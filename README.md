@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – Dec 2027)*
-- 🔭 Currently building **CodePulse** — a real-time distributed code execution & collaboration platform
+- 🔭 Currently building **CodePulse** a real-time distributed code execution & collaboration platform
 - 🌱 Deepening skills in: **System Design · Distributed Systems · DSA**
 - 🏆 **IEEE Published Researcher** | Project recognized by **Govt. of Karnataka (KSCST)**
 - 💼 Seeking **SDE Internship** *(CPT eligible)*
