@@ -50,6 +50,12 @@
 
 ## 🚀 Featured Projects
 
+### 🏥 Naari Shakthi — AI-Powered Smart Healthcare System
+> React · Node.js · MongoDB · Python ML · REST APIs · **Govt. of Karnataka Approved**
+- Full-stack healthcare platform with role-based dashboards
+- ML-powered health analytics via RESTful APIs
+- Real-time inventory alerts via SMS/email — 70% reduction in manual oversight
+
 ### 🤖 [LangChain Conversational Agent](https://github.com/JD1359/langchain-conversational-agent)
 > Python · LangChain · OpenRouter · Tavily API · Conversational Memory
 - AI agent with real-time web search, math evaluation, and tool calling
@@ -61,14 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JD1359&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JD1359&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
 
 ## 📝 Publications
 
