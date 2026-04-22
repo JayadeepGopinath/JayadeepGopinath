@@ -60,7 +60,7 @@
 > React · Node.js · MongoDB · Python ML · REST APIs · **Govt. of Karnataka Approved**
 - Full-stack healthcare platform with role-based dashboards
 - ML-powered health analytics via RESTful APIs
-- Real-time inventory alerts via SMS/email — 70% reduction in manual oversight
+- Real-time inventory alerts via SMS/email 70% reduction in manual oversight
 
 ### 🤖 [LangChain Conversational Agent](https://github.com/JD1359/langchain-conversational-agent)
 > Python · LangChain · OpenRouter · Tavily API · Conversational Memory
