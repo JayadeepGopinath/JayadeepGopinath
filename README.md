@@ -50,6 +50,12 @@
 
 ## 🚀 Featured Projects
 
+### 🔥 [CodePulse](https://github.com/JD1359/codepulse) — Real-Time Distributed Code Execution Platform
+> Multi-user collaborative coding platform · WebSockets · Redis Pub/Sub · Docker Sandboxing · Node.js · React
+- Supports 5+ programming languages with sub-100ms sync latency
+- Sandboxed Docker execution engine with CPU/memory resource limits
+- Designed for 500+ concurrent users under load testing
+
 ### 🏥 Naari Shakthi — AI-Powered Smart Healthcare System
 > React · Node.js · MongoDB · Python ML · REST APIs · **Govt. of Karnataka Approved**
 - Full-stack healthcare platform with role-based dashboards
