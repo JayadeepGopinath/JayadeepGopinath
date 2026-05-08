@@ -11,7 +11,7 @@
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – Dec 2027)*
 - 🔭 Currently building **CodePulse** a real-time distributed code execution & collaboration platform
 - 🌱 Deepening skills in: **System Design · Distributed Systems · DSA**
-- 🏆 **IEEE Published Researcher** | Project recognized by **Govt. of Karnataka (KSCST)**
+- 🏆 **IJTRE Published Researcher** | Project recognized by **Govt. of Karnataka (KSCST)**
 - 💼 Seeking **SDE Internship** *(CPT eligible)*
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://linkedin.com/in/jayadeep-g-05b643257)
 
