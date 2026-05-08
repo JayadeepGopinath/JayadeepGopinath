@@ -76,7 +76,7 @@
 
 ## 📝 Publications
 
-**[Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System]((https://ijtre.com/wp-content/uploads/2024/01/2023110517-1.pdf))**
+**[Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System](https://ijtre.com/wp-content/uploads/2024/01/2023110517-1.pdf)**
 *IJTRE Volume II · January 2024 · ISSN: 2347-4718*
 
 ---
