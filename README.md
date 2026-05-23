@@ -10,7 +10,7 @@
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – May 2027)*
 - 🌱 Deepening: **Distributed Systems · Backend Engineering in Go · System Design · DSA**
 - 🏆 **IEEE Xplore Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
-- 💼 Seeking **Summer 2026 / Fall 2026 SWE Internships** *(F-1 CPT eligible — no H-1B sponsorship required)*
+- 💼 Seeking **Summer 2026 / Fall 2026 SWE Internships** *(F-1 CPT eligible - no H-1B sponsorship required)*
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://www.linkedin.com/in/jayadeep-gopinath)
 
 ---
@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ [Notification-system-go](https://github.com/JD1359/Notification-system-go) — Distributed Multi-Channel Notification Service
+### ⚡ [Notification-system-go](https://github.com/JD1359/Notification-system-go) - Distributed Multi-Channel Notification Service
 > **Go · Redis Streams · PostgreSQL · Docker · Prometheus · Grafana · GitHub Actions** · *MIT-licensed*
 
 - REST API + worker pool with **Redis Streams consumer groups for at-least-once delivery**
@@ -76,7 +76,7 @@
 - Exponential-backoff retries with **dead-letter queue**, **idempotency** via client-supplied keys, **per-channel token-bucket rate limiting**
 - Multi-stage Docker build + docker-compose stack (Postgres + Redis + API + 3 workers + Prometheus + Grafana); GitHub Actions CI green
 
-### 🔥 [CodePulse](https://github.com/JD1359/codepulse) — Distributed Code Execution & Automated Test Validation
+### 🔥 [CodePulse](https://github.com/JD1359/codepulse) - Distributed Code Execution & Automated Test Validation
 > **Node.js · React · Socket.io · Docker · Redis · Python**
 
 - Sandboxed Docker code execution engine with CPU/memory resource limits and configurable timeouts
@@ -84,7 +84,7 @@
 - RESTful APIs with JWT auth + rate limiting sustaining **500+ concurrent sessions** under load testing
 - Redis Pub/Sub for real-time state sync; MongoDB compound indexes for **sub-50ms query performance**
 
-### 🏥 [Naari Shakthi](https://github.com/JD1359/naari-shakthi) — AI-Powered Healthcare Platform
+### 🏥 [Naari Shakthi](https://github.com/JD1359/naari-shakthi) - AI-Powered Healthcare Platform
 > **React · Node.js · Python Flask · MongoDB · REST APIs** · **🏆 Govt. of Karnataka (KSCST) Recognized** · **📜 IEEE Published**
 
 - Integrated Python ML service via REST APIs for real-time health risk predictions; outputs validated against clinical benchmarks with automated assertion checks
@@ -97,7 +97,7 @@
 - AI agent with real-time web search, math evaluation, and tool calling
 - Maintains conversation context window with persistent memory
 
-### 📈 [Gold Price Predictor](https://github.com/JD1359/gold-price-predictor) — ML Regression Pipeline
+### 📈 [Gold Price Predictor](https://github.com/JD1359/gold-price-predictor) - ML Regression Pipeline
 > **Python · scikit-learn · pandas · matplotlib**
 
 - Built and evaluated **4 regression models** (Linear, Ridge, Random Forest, Gradient Boosting) with strict temporal ordering to prevent data leakage
@@ -113,7 +113,7 @@
 ## 📝 Publications
 
 **[Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System](https://ijtre.com/wp-content/uploads/2024/01/2023110517-1.pdf)**
-*IJTRE Volume II Issue 5 · IEEE Xplore Digital Library · January 2024 · ISSN: 2347-4718*
+*IJTRE Volume II Issue 5 · IJTRE Xplore Digital Library · January 2024 · ISSN: 2347-4718*
 
 ---
 
