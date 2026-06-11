@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – May 2027)*
 - 🌱 Deepening: **Distributed Systems · Backend Engineering in Go · System Design · DSA**
-- 🏆 **IEEE Xplore Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
+- 🏆 **IJTRE Xplore Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
 - 💼 Seeking **Summer 2026 / Fall 2026 SWE Internships** *(F-1 CPT eligible - no H-1B sponsorship required)*
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://www.linkedin.com/in/jayadeep-gopinath)
 
