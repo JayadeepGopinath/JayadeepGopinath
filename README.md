@@ -34,6 +34,16 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Anthropic-7B3FF2?style=flat)
+
+**AI & ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-3B7AC4?style=flat)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -60,15 +70,18 @@
 ![k6](https://img.shields.io/badge/k6_Load_Testing-7D64FF?style=flat&logo=k6&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**AI & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
+### 🧠 [Agentic-RAG-MCP](https://github.com/JD1359/Agentic-RAG-MCP) - Agentic RAG via Model Context Protocol
+> **Python · MCP · pgvector · FastAPI · OpenAI/Anthropic · sentence-transformers · Docker · GitHub Actions** · *MIT-licensed*
+
+-**MCP server** (stdio + SSE) exposing an **agentic RAG pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
+-**Hybrid retrieval** - pgvector HNSW + BM25 fused with Reciprocal Rank Fusion, reranked by cross-encoder
+-**Multi-step agentic loop** - planner judges retrieved context, expands queries, re-searches on weak results, cites sources
+-**RAGAS-style evaluation** - faithfulness, answer relevance, context precision/recall on a 20-question golden set
+-**Offline mode** - deterministic mock LLM + content-addressable embedding fallback for CI without API keys
+-**Verified end-to-end** - **p50 latency 293ms, ingestion 15.4s for 4 docs, 24 chunks indexed**
 
 ### ⚡ [Notification-system-go](https://github.com/JD1359/Notification-system-go) - Distributed Multi-Channel Notification Service
 > **Go · Redis Streams · PostgreSQL · Docker · Prometheus · Grafana · GitHub Actions** · *MIT-licensed*
