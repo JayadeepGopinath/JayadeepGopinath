@@ -1,7 +1,7 @@
 # Hi, I'm Jayadeep Gopinath 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+%26+Applied+AI+Engineer;Go+%7C+Python+%7C+Distributed+Systems+%7C+RAG+%7C+MCP;Shipped+agentic-rag-mcp+%26+notification-system-go;M.S.+Computer+Science+%40+Illinois+Tech;IJTRE+Xplore+Published+%C2%B7+KSCST+Recognized" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+%26+Applied+AI+Engineer;Go+%7C+Python+%7C+Distributed+Systems+%7C+RAG+%7C+MCP;Shipped+agentic-rag-mcp+%26+notification-system-go;M.S.+Computer+Science+%40+Illinois+Tech;IJTRE+Published+%C2%B7+KSCST+Recognized" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – May 2027)*
 - 🌱 Deepening: **Distributed Systems · Backend Engineering in Go · System Design · DSA**
-- 🏆 **IJTRE Xplore Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
+- 🏆 **IJTRE Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
 - 💼 Seeking **Fall 2026 SWE Internships/Winter 2026** *(F-1 CPT eligible - no H-1B sponsorship required)*
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://www.linkedin.com/in/jayadeep-gopinath)
 
@@ -101,11 +101,11 @@
 - Redis Pub/Sub for real-time state sync; MongoDB compound indexes for **sub-50ms query performance**
 
 ### 🏥 [Naari Shakthi](https://github.com/JD1359/naari-shakthi) - AI-Powered Healthcare Platform
-> **React · Node.js · Python Flask · MongoDB · REST APIs** · **🏆 Govt. of Karnataka (KSCST) Recognized** · **📜 IEEE Published**
+> **React · Node.js · Python Flask · MongoDB · REST APIs** · **🏆 Govt. of Karnataka (KSCST) Recognized** · **📜 IJTRE Published**
 
 - Integrated Python ML service via REST APIs for real-time health risk predictions; outputs validated against clinical benchmarks with automated assertion checks
 - Role-based access control, input validation, rate-limited endpoints; full system architecture documented for KSCST institutional deployment review
-- **IEEE-published research** based on this project (IJTRE Vol. II, Jan 2024)
+- **IJTRE-published research** based on this project (IJTRE Vol. II, Jan 2024)
 
 ### 🤖 [LangChain Conversational Agent](https://github.com/JD1359/langchain-conversational-agent)
 > **Python · LangChain · OpenRouter · Tavily API · Conversational Memory**
@@ -129,19 +129,19 @@
 ## 📝 Publications
 
 **[Smart Sanitary Pad and Medicine Vending Machine with Automated Dispensing, Disposal, and Notification System](https://ijtre.com/wp-content/uploads/2024/01/2023110517-1.pdf)**
-*IJTRE Volume II Issue 5 · IJTRE Xplore Digital Library · January 2024 · ISSN: 2347-4718*
+*IJTRE Volume II Issue 5 · IJTRE Digital Library · January 2024 · ISSN: 2347-4718*
 
 ---
 
 ## 🏆 Recognition
 
 - 🥇 **Govt. of Karnataka — KSCST** (Karnataka State Council for Science and Technology) for *Naari Shakthi* healthcare project, 2024
-- 📜 **IJTRE Xplore Digital Library** publication, January 2024
+- 📜 **IJTRE Digital Library** publication, January 2024
 
 ---
 
 <div align="center">
-  <i>Open to <b>Summer 2026 / Fall 2026 SWE Internships</b> · F-1 CPT eligible · No H-1B sponsorship required for internship</i><br/><br/>
+  <i>Open to <b> Fall 2026 SWE Internships</b> · F-1 CPT eligible · No H-1B sponsorship required for internship</i><br/><br/>
   <a href="mailto:jg@hawk.illinoistech.edu">📧 jg@hawk.illinoistech.edu</a> ·
   <a href="https://www.linkedin.com/in/jayadeep-gopinath">💼 LinkedIn</a> ·
   <a href="https://github.com/JD1359">🐙 GitHub</a>
