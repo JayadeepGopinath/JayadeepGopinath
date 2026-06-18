@@ -74,12 +74,12 @@
 ### 🧠 [Agentic-RAG-MCP](https://github.com/JD1359/Agentic-RAG-MCP) - Agentic RAG via Model Context Protocol
 > **Python · MCP · pgvector · FastAPI · OpenAI/Anthropic · sentence-transformers · Docker · GitHub Actions** · *MIT-licensed*
 
--**MCP server** (stdio + SSE) exposing an **agentic RAG pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
--**Hybrid retrieval** - pgvector HNSW + BM25 fused with Reciprocal Rank Fusion, reranked by cross-encoder
--**Multi-step agentic loop** - planner judges retrieved context, expands queries, re-searches on weak results, cites sources
--**RAGAS-style evaluation** - faithfulness, answer relevance, context precision/recall on a 20-question golden set
--**Offline mode** - deterministic mock LLM + content-addressable embedding fallback for CI without API keys
--**Verified end-to-end** - **p50 latency 293ms, ingestion 15.4s for 4 docs, 24 chunks indexed**
+- **MCP server** (stdio + SSE) exposing an **agentic RAG pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
+- **Hybrid retrieval** - pgvector HNSW + BM25 fused with Reciprocal Rank Fusion, reranked by cross-encoder
+- **Multi-step agentic loop** - planner judges retrieved context, expands queries, re-searches on weak results, cites sources
+- **RAGAS-style evaluation** - faithfulness, answer relevance, context precision/recall on a 20-question golden set
+- **Offline mode** - deterministic mock LLM + content-addressable embedding fallback for CI without API keys
+- **Verified end-to-end** - **p50 latency 293ms, ingestion 15.4s for 4 docs, 24 chunks indexed**
 
 ### ⚡ [Notification-system-go](https://github.com/JD1359/Notification-system-go) - Distributed Multi-Channel Notification Service
 > **Go · Redis Streams · PostgreSQL · Docker · Prometheus · Grafana · GitHub Actions** · *MIT-licensed*
