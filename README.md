@@ -1,7 +1,7 @@
 # Hi, I'm Jayadeep Gopinath 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Backend+%26+Distributed+Systems+Engineer;Go+%7C+Python+%7C+Node.js+%7C+PostgreSQL+%7C+Redis;Shipped+notification-system-go+%E2%80%94+170+req%2Fs%2C+p50+17ms;M.S.+Computer+Science+%40+IIT+Chicago;IEEE+Published+%C2%B7+KSCST+Recognized" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+%26+Applied+AI+Engineer;Go+%7C+Python+%7C+Distributed+Systems+%7C+RAG+%7C+MCP;Shipped+agentic-rag-mcp+%26+notification-system-go;M.S.+Computer+Science+%40+Illinois+Tech;IJTRE+Xplore+Published+%C2%B7+KSCST+Recognized" alt="Typing SVG" />
 </div>
 
 ---
@@ -42,8 +42,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-3B7AC4?style=flat)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
