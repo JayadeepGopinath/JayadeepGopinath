@@ -8,9 +8,10 @@
 
 ## 🧑‍💻 About Me
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – May 2027)*
-- 🌱 Deepening: **Distributed Systems · Backend Engineering in Go · System Design · DSA**
+- 🌱 Deepening: **Applied AI & LLM Evaluation · Distributed Systems · Backend Engineering in Go · System Design**
 - 🏆 **IJTRE Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
-- 💼 Seeking **Fall 2026 SWE Internships/Winter 2026** *(F-1 CPT eligible - no H-1B sponsorship required)*
+- 💼 Seeking **applied AI, forward deployed, and software engineering roles** - summer 2027 internships and full-time after May 2027 *(F-1, CPT eligible)*
+- 🔍 I measure before I claim: every flagship project below ships with load-test or evaluation numbers
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://www.linkedin.com/in/jayadeep-gopinath)
 
 ---
@@ -21,7 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -75,6 +75,7 @@
 
 ## 🚀 Featured Projects
 ### 🧠 [Agentic-RAG-MCP](https://github.com/JD1359/Agentic-RAG-MCP) - Agentic RAG via Model Context Protocol
+<!-- TODO: add a live demo link here once Agentic-RAG-MCP is deployed -->
 > **Python · MCP · pgvector · FastAPI · OpenAI/Anthropic · sentence-transformers · Docker · GitHub Actions** · *MIT-licensed*
 
 - **MCP server** (stdio + SSE) exposing an **agentic RAG pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
@@ -92,7 +93,7 @@
 - Exponential-backoff retries with **dead-letter queue**, **idempotency** via client-supplied keys, **per-channel token-bucket rate limiting**
 - Multi-stage Docker build + docker-compose stack (Postgres + Redis + API + 3 workers + Prometheus + Grafana); GitHub Actions CI green
 
-### 🔥 [CodePulse](https://github.com/JD1359/codepulse) - Distributed Code Execution & Automated Test Validation
+### 🔥 [CodePulse](https://github.com/JD1359/codepulse) - Sandboxed Code Execution & Automated Test Validation
 > **Node.js · React · Socket.io · Docker · Redis · Python**
 
 - Sandboxed Docker code execution engine with CPU/memory resource limits and configurable timeouts
@@ -141,7 +142,7 @@
 ---
 
 <div align="center">
-  <i>Open to <b> Fall 2026 SWE Internships</b> · F-1 CPT eligible · No H-1B sponsorship required for internship</i><br/><br/>
+  <i>Open to <b>applied AI, forward deployed, and software engineering roles</b> · Summer 2027 internships and full-time after May 2027 · F-1, CPT eligible</i><br/><br/>
   <a href="mailto:jg@hawk.illinoistech.edu">📧 jg@hawk.illinoistech.edu</a> ·
   <a href="https://www.linkedin.com/in/jayadeep-gopinath">💼 LinkedIn</a> ·
   <a href="https://github.com/JD1359">🐙 GitHub</a>
