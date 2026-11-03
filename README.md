@@ -10,7 +10,7 @@
 - 🎓 **M.S. Computer Science** @ Illinois Institute of Technology, Chicago *(Aug 2025 – May 2027)*
 - 🌱 Deepening: **Applied AI & LLM Evaluation · Distributed Systems · Backend Engineering in Go · System Design**
 - 🏆 **IJTRE Published** (IJTRE, Jan 2024) | Project recognized by **Govt. of Karnataka (KSCST)**
-- 💼 Seeking **applied AI, forward deployed, and software engineering roles** - summer 2027 internships and full-time after May 2027 *(F-1, CPT eligible)*
+- 💼 Seeking **Applied AI, Forward Deployed, and Software Engineering roles** - summer 2027 internships and full-time after May 2027 *(F-1, CPT eligible)*
 - 🔍 I measure before I claim: every flagship project below ships with load-test or evaluation numbers
 - 📫 Reach me: **jg@hawk.illinoistech.edu** | [LinkedIn](https://www.linkedin.com/in/jayadeep-gopinath)
 
@@ -78,7 +78,7 @@
 <!-- TODO: add a live demo link here once Agentic-RAG-MCP is deployed -->
 > **Python · MCP · pgvector · FastAPI · OpenAI/Anthropic · sentence-transformers · Docker · GitHub Actions** · *MIT-licensed*
 
-- **MCP server** (stdio + SSE) exposing an **agentic RAG pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
+- **MCP server** (stdio + SSE) exposing an **Agentic RAG Pipeline** - installable in Claude Desktop, Cursor, Cline, Continue, Zed
 - **Hybrid retrieval** - pgvector HNSW + BM25 fused with Reciprocal Rank Fusion, reranked by cross-encoder
 - **Multi-step agentic loop** - planner judges retrieved context, expands queries, re-searches on weak results, cites sources
 - **RAGAS-style evaluation** - faithfulness, answer relevance, context precision/recall on a 20-question golden set
